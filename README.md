@@ -21,7 +21,7 @@ Format: (CSV, Printscreeny o ruchcu odwiedzających w Word / Audience traffic ch
 
 
  
-Narzędzia i technologie / Tools and technologies:
+🔧 Narzędzia i technologie / Tools and technologies:
 
 
 
