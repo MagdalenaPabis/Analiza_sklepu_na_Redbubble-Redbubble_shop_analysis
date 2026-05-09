@@ -1,14 +1,14 @@
 # Analiza_sklepu_na_Redbubble-Redbubble_shop_analysis
 
 
-Cel projektu / Project's goal:
+📊 Cel projektu / Project's goal:
 
 
 Analiza sklepu na Redbubble w biznesie Print on Demand mająca na celu zwiększenie sprzedaży. / An analysis of a Redbubble store in the print-on-demand business aimed at increasing sales.
 
 
  
-Dane / Data:
+🗂️ Dane / Data:
 
 
 
@@ -33,7 +33,7 @@ Power BI – analiza i wizualizacja / analysis and visualization
 
 
 
-Proces analizy / The analysis process:
+📝 Proces analizy / The analysis process:
 
 
 
@@ -49,7 +49,7 @@ Podsumowanie / Summary – rekomendacje dla właściciela sklepu / recommendatio
 
 
  
-Wyniki i wizualizacje / Results and visualizations:
+📈 Wyniki i wizualizacje / Results and visualizations:
 
 
 
