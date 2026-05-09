@@ -38,6 +38,7 @@ Proces analizy / The analysis process:
 
 
 Zaplanowanie pracy / Work planning - otrzymanie wytycznych od klienta, wstępny przegląd danych, zaplanowanie wykonania analizy / receiving guidelines from the client, conducting an initial review of the data, and planning the analysis
+
 Przygotowanie danych / Data preparation – zebranie danych, połączenie plików, czyszczenie danych / data collection, file merging, data cleaning
 
 Analiza / Analysis – wybór potrzebnych danych, dodatkowe obliczenia z użyciem formuł, pogrupowanie danych do stworzenia wizualizacji / selecting the necessary data, performing additional calculations using formulas, grouping data to create visualizations
