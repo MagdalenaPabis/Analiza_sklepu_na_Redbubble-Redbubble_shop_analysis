@@ -1,11 +1,16 @@
 # Analiza_sklepu_na_Redbubble-Redbubble_shop_analysis
 
+
 Cel projektu / Project's goal:
+
 
 Analiza sklepu na Redbubble w biznesie Print on Demand mająca na celu zwiększenie sprzedaży. / An analysis of a Redbubble store in the print-on-demand business aimed at increasing sales.
 
+
  
 Dane / Data:
+
+
 
 
 Źródło / Source: (Raporty sprzedażowe sklepu na Redbubble oraz wykres odwiedzających /Redbubble's shop sales raports and visitors chart)
@@ -14,8 +19,10 @@ Zakres / Range: (sprzedaż, produkty, marża, ruch odwiedzających /sales, produ
 
 Format: (CSV, Printscreeny o ruchcu odwiedzających w Word / Audience traffic chart printsceens in Word)
 
+
  
 Narzędzia i technologie / Tools and technologies:
+
 
 
 Excel - zbieranie danych, czyszczenie danych, tabele, formuły obliczeniowe / data collection, data cleaning, tables, calculation formulas
@@ -25,7 +32,9 @@ Power Query - łączenie plików, czyszczenie danych / merging files, data clean
 Power BI – analiza i wizualizacja / analysis and visualization
 
 
+
 Proces analizy / The analysis process:
+
 
 
 Zaplanowanie pracy / Work planning - otrzymanie wytycznych od klienta, wstępny przegląd danych, zaplanowanie wykonania analizy / receiving guidelines from the client, conducting an initial review of the data, and planning the analysis
@@ -37,8 +46,10 @@ Wizualizacje / Visualizations– stworzenie dashboardów w Power BI / creating d
 
 Podsumowanie / Summary – rekomendacje dla właściciela sklepu / recommendations for shop owner
 
+
  
 Wyniki i wizualizacje / Results and visualizations:
+
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e8a78b6-3dfb-4e2b-8fe9-f6c1545e5ed4" />
