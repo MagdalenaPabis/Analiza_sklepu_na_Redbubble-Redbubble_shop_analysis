@@ -12,12 +12,11 @@ An analysis of a Redbubble store in the print-on-demand business aimed at increa
 
 
 
-
 Source: (Redbubble's shop sales raports and visitors chart)
 
 Range: (sales, products, margin, audience traffic)
 
-Format: (CSV, Audience traffic chart printsceens in Word)
+Format: (CSV, Audience traffic chart printsceens in Word file)
 
 
  
@@ -36,16 +35,55 @@ Power BI – analysis and visualization
 📝 The analysis process:
 
 
+Reviewing the available data and preparing it for analysis.
 
-Work planning - receiving guidelines from the client, conducting an initial review of the data, and planning the analysis
 
-Data preparation – data collection, file merging, data cleaning
+Requirements from a client:
+- I’d like to draw and have my work sell.
+- I’d like to make more profit from my shops.
+- I’d like to know which niches are working and in which niches I could still publish?
+- I’d like to know who my audience is and how to expand it?
+- I’d like to get some more tips, but to be honest, I don’t know what kind.
 
-Analysis – selecting the necessary data, performing additional calculations using formulas, grouping data to create visualizations
 
-Visualizations– creating dashboards in Power BI
+What does an analyst see when they receive requirements from a client?
 
-Summary – recommendations for shop owner
+
+Main tasks:
+- Sales analysis
+- Niche analysis
+- Customer analysis
+- Providing additional recommendations
+
+
+Redbubble store visitor data.
+
+
+Redbubble still does not offer the option to use Google Analytics 4. It only provides an interactive graph showing visitor numbers over the course of a year.
+
+<img width="878" height="462" alt="Traffic" src="https://github.com/user-attachments/assets/426646b6-f645-44cb-9a83-0ae83b66c4f7" />
+
+
+The client (an artist) provided a Word document containing screenshots of charts from the past two years. This data needs to be transferred to Excel to provide a complete overview of the entire period. Of course, artificial intelligence could be used, but there isn’t much data, so even typing it in manually only took a moment.
+
+
+<img width="684" height="331" alt="traffic excel" src="https://github.com/user-attachments/assets/ef2efd6b-a4eb-4aa0-8ba3-75277ea81677" />
+
+
+To make it easier to add further rows later and analyse the data, I will insert a table.
+
+
+<img width="725" height="355" alt="traffic tabela" src="https://github.com/user-attachments/assets/8efa688d-2f30-4359-a555-0e77b8599bdf" />
+
+
+What can I already see, or what will be worth preparing from the data I have received?
+
+- Customer sources – it is already clear that I will be able to suggest to our client to increase their social media activity
+
+- Seasonality – there is a noticeable increase in store traffic during periods such as the pre-Christmas season
+
+
+
 
 
  
