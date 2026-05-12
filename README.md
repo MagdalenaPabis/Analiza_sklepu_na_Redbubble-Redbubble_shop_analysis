@@ -64,7 +64,7 @@ Redbubble still does not offer the option to use Google Analytics 4. It only pro
 <img width="878" height="462" alt="Traffic" src="https://github.com/user-attachments/assets/426646b6-f645-44cb-9a83-0ae83b66c4f7" />
 
 
-The client (an artist) provided a Word document containing screenshots of charts from the past two years. This data needs to be transferred to Excel to provide a complete overview of the entire period. Of course, artificial intelligence could be used, but there isn’t much data, so even typing it in manually only took a moment.
+The client provided a Word document containing screenshots of charts from the past two years. This data needs to be transferred to Excel to provide a complete overview of the entire period. Of course, artificial intelligence could be used, but there isn’t much data, so even typing it in manually only took a moment.
 
 
 <img width="684" height="331" alt="traffic excel" src="https://github.com/user-attachments/assets/ef2efd6b-a4eb-4aa0-8ba3-75277ea81677" />
