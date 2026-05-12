@@ -122,7 +122,7 @@ Customer analysis.
 Let’s start by looking at the customers, as a particular issue has been raised here.
 
 
-Problem: correctly identifying my audience.
+Problem: correctly identifying the audience.
 
 
 On Redbubble, artists ‘like’ each other’s work purely out of a desire to help others, so that their shops can grow and attract more visitors. The problem arises because people who have no intention of buying the products in the first place visit artists’ shops and add their artwork to their favourites. As an artist, I’m therefore turning to my analytical self to address this issue.
@@ -145,6 +145,11 @@ In my customer analysis, I will consider:
 
 
 I will be using Power BI for further analysis and visualisation. I uploaded the data from my Excel file, checked that everything was correct, and started creating the dashboard. I also had to change a few options in the settings to ensure that all the charts I wanted to create worked properly.
+
+<img width="641" height="339" alt="powerbi" src="https://github.com/user-attachments/assets/21a76ff4-24e9-4e42-91ec-a34e8cc31fe6" />
+
+Customer analysis.
+
 
 <img width="773" height="447" alt="1 Odwiedzający Visitors" src="https://github.com/user-attachments/assets/7c401677-9074-487d-bb2d-243659ca2e02" />
 
