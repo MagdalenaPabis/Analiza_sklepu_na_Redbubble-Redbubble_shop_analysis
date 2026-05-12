@@ -56,7 +56,7 @@ Main tasks:
 - Providing additional recommendations
 
 
-🗂️ Redbubble store visitor data.
+🗂️ Redbubble store visitors data.
 
 
 Redbubble still does not offer the option to use Google Analytics 4. It only provides an interactive graph showing visitor numbers over the course of a year.
