@@ -52,14 +52,14 @@ Podsumowanie / Summary – rekomendacje dla właściciela sklepu / recommendatio
 📈 Wyniki i wizualizacje / Results and visualizations:
 
 
+<img width="773" height="447" alt="1 Odwiedzający Visitors" src="https://github.com/user-attachments/assets/90a7a878-33c6-4081-87e7-196bd4b8943e" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e8a78b6-3dfb-4e2b-8fe9-f6c1545e5ed4" />
+<img width="775" height="447" alt="2 Sprzedaż Sales" src="https://github.com/user-attachments/assets/7d6cfad2-4725-4524-9986-11d43a45e57d" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bd73e0f2-e764-4c87-a016-77f654da983a" />
+<img width="776" height="447" alt="3 Analiza nisz Niche Analysis" src="https://github.com/user-attachments/assets/b15fd8b3-c4f4-4edf-97cd-b122b575bb4c" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f676e901-cd48-434d-b245-f6b254d3bbf8" />
+<img width="769" height="446" alt="4 Podsumowanie Summary" src="https://github.com/user-attachments/assets/65cac7cb-154c-46cb-aed4-4933a2c697f5" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9176282e-a32a-4211-bb7a-8914ddc0f7da" />
 
 
 Co może zrobić artysta, aby zwiększyć sprzedaż w swoim sklepie?
