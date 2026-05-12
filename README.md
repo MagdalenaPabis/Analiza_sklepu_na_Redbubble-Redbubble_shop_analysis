@@ -13,7 +13,7 @@ An analysis of a Redbubble store in the print-on-demand business aimed at increa
 
 
 
-Source: Redbubble's shop sales raports and visitors chart)
+Source: (Redbubble's shop sales raports and visitors chart)
 
 Range: (sales, products, margin, audience traffic)
 
