@@ -254,3 +254,6 @@ What can an artist do to boost sales in their shop?
 Please note:
 This is a project created for a portfolio. The data comes from the project author’s actual shop. Only some of the data can be shared. The project addresses a real business problem, and the conclusions drawn will be put into practice.
 
+https://www.redbubble.com/people/HugSomeNettles/shop?asc=u
+
+
